@@ -1,0 +1,1 @@
+./a.out /Users/raojun/Documents/NAU/PC/input/input.txt 20 23 /Users/raojun/Documents/NAU/PC/output/

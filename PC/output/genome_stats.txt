@@ -1,0 +1,2 @@
+AmesAncestor:AmesAncestor /Users/raojun/Documents/NAU/PC/input/AmesAncestor.fasta
+AmesAncestor:AmesAncestor /Users/raojun/Documents/NAU/PC/input/AmesAncestor.fasta
